@@ -59,7 +59,7 @@ Crie o arquivo principal:
 
     sudo nano docker-compose.yml
 
-Cole dentro dele o conteúdo fornecido no  [repositório oficial](https://github.com/thijsvanloef/palworld-server-docker/tree/main?tab=readme-ov-file) abaixo.
+Cole dentro dele o conteúdo fornecido do  [repositório oficial](https://github.com/thijsvanloef/palworld-server-docker/tree/main?tab=readme-ov-file) abaixo.
     
 ```yml
 services:
